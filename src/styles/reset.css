@@ -1,0 +1,85 @@
+/* Reset CSS */
+
+/* Box sizing border-box for all elements */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Remove default margin and padding for some elements */
+  body,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  ul,
+  ol,
+  li,
+  dl,
+  dt,
+  dd,
+  blockquote,
+  figure,
+  fieldset,
+  legend,
+  textarea,
+  pre,
+  button,
+  input {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Typography */
+  body,
+  button,
+  input,
+  select,
+  textarea {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Remove list styles on ul, ol elements */
+  ul,
+  ol {
+    list-style: none;
+  }
+  
+  /* Reset anchor styles */
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Remove border and underline on images */
+  img {
+    border-style: none;
+    vertical-align: middle;
+  }
+  
+  /* Remove default button styles */
+  button {
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+  }
+  
+  /* Remove outline on active elements */
+  a,
+  button,
+  input,
+  select,
+  textarea {
+    outline: none;
+  }
+  
+  /* Responsive images */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  

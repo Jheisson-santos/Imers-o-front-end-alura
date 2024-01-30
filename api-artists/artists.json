@@ -1,0 +1,125 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Foo Fighters",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+      },
+      {
+        "id": 2,
+        "name": "Michael Jackson",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+      },
+      {
+        "id": 3,
+        "name": "Emicida",
+        "genre": "Hip Hop",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068"
+      },
+      {
+        "id": 4,
+        "name": "Chitãozinho e Xororó",
+        "genre": "Sertanejo",
+        "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4"
+      },
+      {
+        "id": 5,
+        "name": "Mc Coringa",
+        "genre": "Funk",
+        "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56"
+      },
+      {
+        "id": 6,
+        "name": "Arlindo Cruz",
+        "genre": "Samba",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839"
+      },
+      {
+        "id": 7,
+        "name": "Caetano Veloso",
+        "genre": "MPB",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"
+      },
+      {
+        "id": 8,
+        "name": "50 cent",
+        "genre": "RAP",
+        "urlImg": "https://https://i.scdn.co/image/dd031b9c5d1b6eba4a691cd89c954255aae787f2"
+      },
+      { 
+        "id": 9,
+        "name": "KISS",
+        "genre": "Rock", 
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eba3ebf1fa0da019df3d02cc1e"
+      },
+      { 
+        "id": 10,
+        "name": "Ana Castela",
+        "genre": "Sertanejo", 
+        "urlImg": "https://lh3.googleusercontent.com/proxy/n-aHmPv3jJOFVt4YxPwQiUkCtFhL1SGDzF9RMBY6RFYO53UpzdqMNYGBVab2HtRYyN2n_mjlrmd8w_KRy0N5BqwnKvqasI7bACVBMXQ9SH8treRmEoIC"
+      },
+      { 
+        "id": 11,
+        "name": "Black Sabbath",
+        "genre": "Rock", 
+        "urlImg": "https://whiplash.net/imagens_promo_22/blacksabbath_logo2.jpg"
+      },
+      { 
+        "id": 12,
+        "name": "Bon Jovi",
+        "genre": "Rock", 
+        "urlImg": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO3154GY-default.jpg"
+      },
+      { 
+        "id": 13,
+        "name": "Eminem",
+        "genre": "RAP", 
+        "urlImg": "https://cdn.britannica.com/63/136263-050-7FBFFBD1/Eminem.jpg"
+      },
+      { 
+        "id": 14,
+        "name": "Imagine Dragons",
+        "genre": "Pop", 
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e"
+      },
+      { 
+        "id": 15,
+        "name": "Gorillaz",
+        "genre": "Pop", 
+        "urlImg": "https://ogimg.infoglobo.com.br/in/21765881-aa7-028/FT1086A/760/GORILLAZ_LIVE_Presslow.jpg"
+      },
+      { 
+        "id": 16,
+        "name": "ACDC",
+        "genre": "Rock", 
+        "urlImg": "https://cdns-images.dzcdn.net/images/artist/ad61d6e0fa724d880db979c9ac8cc5e3/500x500.jpg"
+      },
+      { 
+        "id": 17,
+        "name": "Henrique e Juliano",
+        "genre": "Sertanejo", 
+        "urlImg": "https://conteudo.imguol.com.br/c/entretenimento/65/2022/08/06/henrique-e-juliano-1659827737901_v2_1x1.jpg"
+      },
+      { 
+        "id": 18,
+        "name": "Gustavo Lima",
+        "genre": "Sertanejo", 
+        "urlImg": "https://aloalobahia.com/images/p/gusttavolima_covid.jpg"
+      },
+      { 
+        "id": 19,
+        "name": "Raul Seixas",
+        "genre": "MPB", 
+        "urlImg": "https://i.scdn.co/image/ab676161000051749f0c70d55c26e9773d00b7b1"
+      },
+      { 
+        "id": 20,
+        "name": "Metallica",
+        "genre": "Rock", 
+        "urlImg": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2023/06/metallica.jpg"
+      }
+
+    ]
+}
